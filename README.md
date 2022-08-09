@@ -87,4 +87,3 @@ speedEl.addEventListener('input', (e) => speed = 300 / e.target.value)
 ## Acknowledgments🙏🏾
 
 Special Thanks go to [Brad Traversy](http://www.traversymedia.com/) and [Florin Pop](http://www.florin-pop.com/) creating the course and making reviewing concepts fun 😊.
-test
