@@ -52,7 +52,7 @@ I learned the logic behind making a simple auto text effect. I will be applying 
 
 ### Continued development🔮
 
-I also plan on continuing to practice using event listeners to make my pages more functional.
+I also plan implementing this effect in the hero section of my portfolio.
 
 ### I'm really proud of these code snippets✂️
 
